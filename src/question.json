@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "What is the difference between `==` and `===` in JavaScript?"
+    },
+    {
+      "id": 2,
+      "question": "What are the different HTTP request methods, and when do you use them?"
+    },
+    {
+      "id": 3,
+      "question": "Explain the difference between `localStorage`, `sessionStorage`, and `cookies`."
+    },
+    {
+      "id": 4,
+      "question": "What are media queries in CSS? Give an example."
+    },
+    {
+      "id": 5,
+      "question": "What is the difference between `block`, `inline`, and `inline-block` elements in CSS?"
+    },
+    {
+      "id": 6,
+      "question": "How does React’s Virtual DOM work?"
+    },
+    {
+      "id": 7,
+      "question": "What is the difference between `props` and `state` in React?"
+    },
+    {
+      "id": 8,
+      "question": "What is CORS, and how do you handle it in a web application?"
+    },
+    {
+      "id": 9,
+      "question": "What are semantic HTML elements? Give examples."
+    },
+    {
+      "id": 10,
+      "question": "Explain the difference between `let`, `const`, and `var` in JavaScript."
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of `useEffect` in React?"
+    },
+    {
+      "id": 12,
+      "question": "What is the difference between client-side rendering (CSR) and server-side rendering (SSR)?"
+    },
+    {
+      "id": 13,
+      "question": "What are the key differences between SQL and NoSQL databases?"
+    },
+    {
+      "id": 14,
+      "question": "How can you optimize a website for better performance?"
+    },
+    {
+      "id": 15,
+      "question": "What are the benefits of using a CSS preprocessor like SASS or LESS?"
+    }
+  ]
+  
