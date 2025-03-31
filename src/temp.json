@@ -1,0 +1,615 @@
+[
+  {
+    "explaination": "How do you sort an array in JavaScript?",
+    "analysis": {
+      "avgScore": 4.26,
+      "attempted": 4,
+      "worstScore": 2.36,
+      "bestScore": 6.59,
+      "totalScore": 17.04
+    },
+    "modelanswers": "How do you sort an array in JavaScript?",
+    "company": ["WorqHat"],
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "question": "How do you sort an array in JavaScript?",
+    "createdByName": "Sagnik Ghosh",
+    "status": true,
+    "totalScore": 17.04,
+    "type": "Javascript",
+    "difficulty": "Easy",
+    "id": "f9eed53c-b55d-469a-b035-c237c378461a",
+    "createdAt": {
+      "seconds": 1726688771,
+      "nanoseconds": 1000000
+    },
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/f9eed53c-b55d-469a-b035-c237c378461a.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=IRtxCYvUTqMfPXsni7REP7K03cDomgsC3hx1ps9RtRFp3MDPH7oUhnNloT82W0Ek5TSiqGA4D46tL6FAy4cIL1r7jk00NI%2FUEIRTUHIXcYmIJPJLIHqM4qTsHjfRjvGBr1KO5O0SAazZ3uwKrrrm44fS2hDtoVlONSrqnIoBmxhsRb2fI2Si%2Bsm%2BSFyB8B76R8TS5loi%2BaHZKnmlcwJ5wFE%2BllHfP4sUirzElHvpSfDW%2FXDhecGBOEBAHMy2pPe2Wayf6Jp7GbsXqBr8Rmqp8T0m5MxUANvGxbnyi5r6wh%2Bhwyz6RFa7gNyjQJo5QG2%2BJgg%2Bgx5XJ1q%2BlXtxY1m5cQ%3D%3D"
+  },
+  {
+    "explaination": "What is the purpose of the reduce() method?",
+    "modelanswers": "What is the purpose of the reduce() method?",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/6b134688-199a-48bf-95b3-a5b170aeadfa.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=TTRn%2F3QsGt8cjmUsm8tw04xTOP7u8%2FCc%2BGl7Xfimo%2Fdl60MktaWmLrvny8HSPwSiYLIiOByQYmpKhOQMw5vbzjb5t9dZr91KOyUZoKvo7KbV81W4nwi77BtQ8FcBBsjrTjimzsynmhoyMe%2BuYfnIymGbK89ZB1cJFXI%2FdUK6P%2BM1yh7eLEPbAKWGRmn84VBqu89gcOBRgYhNEipOBDV3ymhKBy6z0nt8nThBfEn8N2C7eFT8MME0n%2Fdpt98WRbTYrsjBXSgXp4aUcrnSeQxMLfrMm78jlvVDIawL2di8iVZGIKj9WI%2FX%2BzNrAZ6cCwwvh65XsZ%2BUYJgv5IwNKxiCqQ%3D%3D",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "status": true,
+    "createdByName": "Sagnik Ghosh",
+    "question": "What is the purpose of the reduce() method?",
+    "company": ["Walmart"],
+    "type": "Javascript",
+    "createdAt": {
+      "seconds": 1726688768,
+      "nanoseconds": 37000000
+    },
+    "difficulty": "Easy",
+    "id": "6b134688-199a-48bf-95b3-a5b170aeadfa"
+  },
+  {
+    "status": true,
+    "totalScore": 14.478,
+    "id": "07d21b6a-7417-40be-bab6-d4b48fdeff93",
+    "explaination": "How do you filter an array based on a condition?",
+    "modelanswers": "How do you filter an array based on a condition?",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "question": "How do you filter an array based on a condition?",
+    "analysis": {
+      "totalScore": 14.478,
+      "attempted": 3,
+      "bestScore": 5.715999999999999,
+      "avgScore": 4.826,
+      "worstScore": 3.85
+    },
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/07d21b6a-7417-40be-bab6-d4b48fdeff93.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=Z7COYqZKK6v4cAv6V6hefTuDmhGOCV7YSQdv2u342RvTJKKffrPT%2FrtnuZyMRuiCozUefEi1UBKmvXEH8WWRCvTMZ3WPkOG7%2BvqxlAHo2WnsgZstqHTR6otXrIlG7lAZlKG0wL93ebV8lhE%2BAfaSoCL2ysdCbAcExASWwfQRXh5HwLmFepaY%2BngWBylXgzoRzUMYlWfkey%2FRE1Hrbs6twTpa0weKi3bXr8OIsCvAJ2JQzaFZem1QSblxP8g2NVXN%2BPOJs4lCGgxvdYqjYk3P%2FEPSTD%2F8buRX%2FrXBCjQ4zvoHfjTbJ8YSaQ2kP7p8v16T9oCgu%2BILgrrIj%2B8QlfCiRQ%3D%3D",
+    "type": "Javascript",
+    "company": ["Palo Alto Networks"],
+    "difficulty": "Easy",
+    "createdAt": {
+      "seconds": 1726688765,
+      "nanoseconds": 124000000
+    },
+    "createdByName": "Sagnik Ghosh"
+  },
+  {
+    "company": ["SAP"],
+    "modelanswers": "What is the purpose of the map() method?",
+    "explaination": "What is the purpose of the map() method?",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "createdAt": {
+      "seconds": 1726688762,
+      "nanoseconds": 77000000
+    },
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/0f43d730-7a75-4710-9c8d-4732d437d3d1.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=eu47yo1wrtJKdz7RTUK54Iw5hKKzGN3TsaE4E2EIuPxn1uK8%2FnOs3A4u0XcOrew9uhFlKG2mIynP2nSk9qG9%2FpJJMLwUbM77ESS18XzAlx9ZUaaqptfwlzvEdF7eC%2FoOXdgnMLIfwrHnxzgrnGUc782Xq8YHGLEHoQs8w6MhAteFk557QEX2eTxoPYHLZu3rX64KVgdw8JCHjiC2vtnaDMHHc65NTRrWkorxs8O1e0h9hh2yjZvGchbFH%2BzddNzpXHUhdW5kOgh5KcHGlEUAj%2BBUFUHCWNe1ID2RecmLAMA22ChkKEfhPN0G10tUxA%2FqJROx2YTsxIMJDZ5MpY%2BBlQ%3D%3D",
+    "type": "Javascript",
+    "status": true,
+    "question": "What is the purpose of the map() method?",
+    "difficulty": "Easy",
+    "id": "0f43d730-7a75-4710-9c8d-4732d437d3d1",
+    "createdByName": "Sagnik Ghosh"
+  },
+  {
+    "modelanswers": "How do you remove an element from an array by its value?",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "difficulty": "Easy",
+    "question": "How do you remove an element from an array by its value?",
+    "explaination": "How do you remove an element from an array by its value?",
+    "status": true,
+    "createdByName": "Sagnik Ghosh",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/520b4acb-6679-484a-93b7-38bf48d38d3c.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=r76PsS574s4TjNMej%2FBnHYtqUwTmuk%2FTHsNyUHK3Q3TFtZgVoPFOXeWuMmGx%2Fsie%2FKbWkyxMBHkbjk7tMf%2BVvLRIDmlkah89iP3iCP7fTJ1lnzmeNw7aaGVC%2BImVTajVRAjSxAKQwNB5x98vOkpdbUVz5FRdAm7JP3q5PBmPMtqYXqxwvFC2XdnHggaUQvTBu3X7hPZsk5%2Bxe9FSilDXM2d7sNeMbFAPAwJ9kI%2BSgYrfLpLfTXlNqdGqonf05vKk5ZP%2BUxq9c2vJbTiX%2F37nEWBA%2Fa%2FB4z%2FAXEg7gDnhZLnnbfPjzBpJrIIdi254EqcVlnaAijS6PoCR1qZcybIu1Q%3D%3D",
+    "type": "Javascript",
+    "id": "520b4acb-6679-484a-93b7-38bf48d38d3c",
+    "createdAt": {
+      "seconds": 1726688759,
+      "nanoseconds": 130000000
+    },
+    "company": ["Instacart"]
+  },
+  {
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "totalScore": 7.4159999999999995,
+    "difficulty": "Easy",
+    "question": "What is the purpose of the forEach() method?",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/2322e7cc-6ad2-41c5-94c1-a5b8b3d5aafc.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=mSEJdUG259EVAmkBVcZbMwo8wQaDEtaMgQ7oJHJ391xBHY6m6U%2FX%2B7VADYTJGm7%2B40hKNnY8fHSjvmvnfcKMIQJjF8znSsLzUDXyHE9FjBM9R2JmUCiCFdQnijZ2Ih3LgLD3J4qawWl4y4zE4XhfrWmKgh0BTpsAO1efG5lzvTEbd16F6Jimw6aR0dx4uJ2LaXmu5%2FEhkcF1cJcGY2oF6jNGqItauCBJ41S1zGpGfYn2knaWiOzpj3nrizm933Akb1BpGX4tbO0nkRsb7U76%2FK4OITTL3lJCGXHIF6bGsMtc0ulB9C0fUlWnTmKjXPFgCKnnFZFmHeGipJCCKPtAbg%3D%3D",
+    "status": true,
+    "company": ["Atlassian"],
+    "modelanswers": "What is the purpose of the forEach() method?",
+    "createdAt": {
+      "seconds": 1726688755,
+      "nanoseconds": 953000000
+    },
+    "explaination": "What is the purpose of the forEach() method?",
+    "type": "Javascript",
+    "id": "2322e7cc-6ad2-41c5-94c1-a5b8b3d5aafc",
+    "analysis": {
+      "totalScore": 7.4159999999999995,
+      "bestScore": 7.4159999999999995,
+      "avgScore": 7.4159999999999995,
+      "attempted": 1,
+      "worstScore": 7.4159999999999995
+    },
+    "createdByName": "Sagnik Ghosh"
+  },
+  {
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "id": "60a0b3ff-b780-48b9-a7fd-657678866304",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/60a0b3ff-b780-48b9-a7fd-657678866304.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=RBiuuhaK3S21BBughexbxoAJpmc2d7ej%2Fp4vjsiAo5tzNAMRU8MCIJ%2FDogD2dFMRCMXOCQuhS0kdD%2Fbm69xSjRLOCjUn8sEI4C9%2FYpU%2FPsdf1Okik7ntuaTR7jRKEaZVk4KKzgdw8DJJm2WtP9eRoVztiyr2z2%2FZTGspIUgAT7jnJ9h5BeHXzdSiNH7VkW%2BkLflbdJF1xtgjieWCGxuzG%2FAMCRrbxZisEDqD%2F6pdm%2Bw%2BKQvLcCrWJujXOb7VMN4ENoOckZuFePTiuLmax%2FEdVPKbZwHLO4gxTOdNsoN99rBoux7FX%2F29EfrKpGqmG3b70MeIy8i6%2FoGTs63FYQslMA%3D%3D",
+    "difficulty": "Easy",
+    "createdAt": {
+      "seconds": 1726688752,
+      "nanoseconds": 875000000
+    },
+    "modelanswers": "How do you check if a variable is an array?",
+    "question": "How do you check if a variable is an array?",
+    "status": true,
+    "type": "Javascript",
+    "explaination": "How do you check if a variable is an array?",
+    "company": ["Hubspot"],
+    "createdByName": "Sagnik Ghosh"
+  },
+  {
+    "status": true,
+    "createdAt": {
+      "seconds": 1726688749,
+      "nanoseconds": 838000000
+    },
+    "type": "Javascript",
+    "id": "02538f05-f36e-46bb-9cbc-9b74bd6de04e",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "modelanswers": "What is the difference between slice() and splice()?",
+    "company": ["Lyft"],
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/02538f05-f36e-46bb-9cbc-9b74bd6de04e.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=t7U%2FMaw6bGIzfj5dd1HbnxDaAxjUPMXCBIQ5MQezH6y9msU98ajSvM4wH48aq5s4EbMuIXbMI%2BGno%2Br24vYhqw32G%2Be6Y6dx%2F8fmgiu6XCBHXJRX2DaurKdJEryrs11w7u3LkMVqjxceQZpkjMlUpD2k6oNdcCOcF5QKEx%2FJa9FKPSwhhx%2F2ce36w8X7G1AV%2FE1GnSDisE86kvxNlXyxhJ0wT4ZEa8qg54Qn4zh6h30Lny0G2p3dFt2f7V%2Fu05rEmHhEdXJQC00oB4NmoIN%2FvKi5L3kYC8cbDzKVbJLOTQAxmb3aDW9iyzbcfmO53z6AclNJT3WTKd9cmaJ3jzYXBw%3D%3D",
+    "explaination": "What is the difference between slice() and splice()?",
+    "createdByName": "Sagnik Ghosh",
+    "difficulty": "Easy",
+    "question": "What is the difference between slice() and splice()?"
+  },
+  {
+    "status": true,
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/af68b17d-3e94-4ca1-9326-746786576aaf.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=qSMEldZlhAxCXTBm3iIoW68vDIQvpaqR4XVXSdZfRV9m2GSzhhKRYuEjyqd36IKh6kKX%2BtRhE%2FFnQYZQZI3PA8%2BQB1OUPy1M%2FIui%2B8f4cGQa5oI0gQpsmvNylJjzI04pOo%2BiUeS%2FFFCR1etNbGTHsuJdkLJUsJuSwfe8Epx1ohs4K4Fep%2BEgT2vycsDNc5s3Ek8VAN%2F4SHz7ngQFtg6fBUhld%2BTvxpl1BFl0S1uN3FYJefp4iivdiTkFDKOuElSxYycb3jgd58XuMeF1cdygxNIWT2aWhBNKffF5QRaoYGUBltuYm5S%2BkdPHEhHdlvBHF95OtFqJhHATHPM2iI0yTQ%3D%3D",
+    "explaination": "How do you create a copy of an array?",
+    "modelanswers": "How do you create a copy of an array?",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "difficulty": "Easy",
+    "type": "Javascript",
+    "createdAt": {
+      "seconds": 1726688746,
+      "nanoseconds": 655000000
+    },
+    "id": "af68b17d-3e94-4ca1-9326-746786576aaf",
+    "question": "How do you create a copy of an array?",
+    "createdByName": "Sagnik Ghosh",
+    "company": ["DoorDash"]
+  },
+  {
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/af91650f-4f43-499a-b37b-6b24b45eaf60.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=faeuaiLmul5trJpmZPhCYYtfen2%2B1KpElX5A3II%2FJH%2B6QGxOG522bX0ul6w3Gn7jSy9lr88zGx5M5Z0uEmVyCz0CLfYdAEekfWq%2B%2BuFmInYUaXtMzP6JHUdKow1jmqyouggEu6FnS0bvskSx5gPCuRfMrPaUVhbJNGZlWpXlv3%2FIgjcduJbwqqfPR2gJn1gu9qPBoNJ6Stmy0kUkT8QT9jXoJCHtX9uFdud20fy67VGJ4yqrdLJMYiIyfi%2FOcUTfzsJvuDhMdDRXlDvRw8Vl5MPoEP9qpjdaTkou6IDQjINJAKetE%2FsRnIw%2F97s6x27lED0a9tl3im926Valr%2F47Ew%3D%3D",
+    "modelanswers": "What is the purpose of the splice() method?",
+    "question": "What is the purpose of the splice() method?",
+    "analysis": {
+      "bestScore": 6.94,
+      "totalScore": 18.6,
+      "avgScore": 6.2,
+      "worstScore": 5.058,
+      "attempted": 3
+    },
+    "id": "af91650f-4f43-499a-b37b-6b24b45eaf60",
+    "totalScore": 18.6,
+    "company": ["Amazon"],
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "type": "Javascript",
+    "createdAt": {
+      "seconds": 1726688743,
+      "nanoseconds": 733000000
+    },
+    "difficulty": "Easy",
+    "createdByName": "Sagnik Ghosh",
+    "status": true,
+    "explaination": "What is the purpose of the splice() method?"
+  },
+  {
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/b5734c42-fc2d-4e55-abed-487683364bf9.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=KVY6NkMZdOSpm5llgRaQpGsQc6ACGcnGRqYpLkM2KNnkHVKGrUR3ZgljODuhHjJVduhpgWim1%2BxI%2BHqpvJYfuBpkmHKwYN60UnQIohjYpheY7dtnxSsTfZq%2Fg1mfSLQCH%2FygW55iSK0CeFBTMpD%2BX2inENIdFqZr0ootd9PIKZH%2Bz8bBjPKLGOTXhhacp6QuoOAGarnx6JjJ4VviJ6pnjPV8EcYO8fec8m%2FZU995r3llIhAz3FSLWOR7DHXvFqq64ITaWQNHArzm0BSoj5FIaTdTITLwfCXfYnKldciHoNfou66MLAUoKZhMTkzxbCczevtWLryh%2BHDnmg7aePsUYA%3D%3D",
+    "difficulty": "Easy",
+    "id": "b5734c42-fc2d-4e55-abed-487683364bf9",
+    "createdAt": {
+      "seconds": 1726688740,
+      "nanoseconds": 782000000
+    },
+    "question": "How do you check if an element exists in an array?",
+    "modelanswers": "How do you check if an element exists in an array?",
+    "status": true,
+    "type": "Javascript",
+    "explaination": "How do you check if an element exists in an array?",
+    "company": ["Google"],
+    "createdByName": "Sagnik Ghosh"
+  },
+  {
+    "id": "8b3b4ac8-0cdf-42d9-8012-1559cd2a5044",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/8b3b4ac8-0cdf-42d9-8012-1559cd2a5044.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=VFF6F8qy7snWcbu4JUwd9J3hJQ5DSiHFaOmruV%2BFGeWQL5qNHi3vqiPVXfn2XL5RFRa%2BZTjy67%2Fmjb5rh%2FK4BkJqFlUzsdmrstvshNwP0RmN%2FEakYHtmut2%2FcCh3wa5%2B4CT3XcTWC5HjhvBnHOzija4On2BGE53GFnuP1hT0qCbYMdPSQi463tld%2FyPzHgWglGAqkZakb7AL6UZDjd5e5k4caSo%2FR67YHUFXVKT5%2FeQaBehEoRVpmDNk2GsWb1bJSfpZ7A4TK%2BZln7KPkOe%2Bp90W%2BJMUX0NGOyArTU1WvHzOYENCw0Q7u3UvGHX1V5i0RLjOd5VvZBxJ9EwDoMxpzw%3D%3D",
+    "status": true,
+    "explaination": "What is the purpose of the push() and pop() methods?",
+    "company": ["TikTok"],
+    "createdByName": "Sagnik Ghosh",
+    "modelanswers": "What is the purpose of the push() and pop() methods?",
+    "difficulty": "Easy",
+    "question": "What is the purpose of the push() and pop() methods?",
+    "analysis": {
+      "bestScore": 7.11,
+      "worstScore": 7.11,
+      "avgScore": 7.11,
+      "totalScore": 7.11,
+      "attempted": 1
+    },
+    "createdAt": {
+      "seconds": 1726688737,
+      "nanoseconds": 724000000
+    },
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "totalScore": 7.11,
+    "type": "Javascript"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "9a0b7666-e5b0-4788-a924-de1afd65d85a",
+    "totalScore": 2,
+    "type": "Javascript",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/9a0b7666-e5b0-4788-a924-de1afd65d85a.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=OMIXQ98NBl0zxQCBx2UtMiQkVXqd3OCebYa%2B0keEamCqVgNarRvssOlt3HdFhsujsw%2BLZHdp4i%2BwSm2SvNnCCxbvQ49HUUnV%2BMRn0YkWiTUYEGHlsurwpOxkM9dxQb4bmjFULa%2BI3moKQz9gJk%2FUQUUU07kLtSNvvrlROJMy4f9yOgVAAi0%2Bbvzlzd0%2FOjRjdHLu0PJ6c3RS2AklKeGiP5biTZfeIF5qkzLslEY%2BaQ%2FeIWsaFC7O5yQQGci4zckKBxcTOu0dYOsIFgpJNqjSzxdfN2lnk5UjRtdXq1PGMXxoPvZ6tWiTBIP9yubil9ybiQk5sjpotH2zvE6z7bKM5g%3D%3D",
+    "createdByName": "Sagnik Ghosh",
+    "createdAt": {
+      "seconds": 1726688734,
+      "nanoseconds": 560000000
+    },
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "question": "How do you create a new array in JavaScript?",
+    "modelanswers": "How do you create a new array in JavaScript?",
+    "company": ["Meta (Facebook)"],
+    "analysis": {
+      "totalScore": 2,
+      "avgScore": 2,
+      "bestScore": 2,
+      "worstScore": 2,
+      "attempted": 1
+    },
+    "status": true,
+    "explaination": "How do you create a new array in JavaScript?"
+  },
+  {
+    "status": true,
+    "question": "What is the difference between parseInt() and parseFloat()?",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/d7e5b318-3992-4054-ad74-137a4110e51d.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=p6dS7Oxk96bwGU5BEQnnQg1KxXdSDYEPj68KW7Xxx8AGvc4SNQWUEpFsdG7NVZWiyo4hJJKf80I95KLoSYfmgyBT6YLmYgadfusxgJNyb7aaxsN01zc3cicc1%2BXYyp%2Bpi47eAx2vY0157kxpr%2BjiHnrdNXEC5xhM20E%2BFbAqicbd3rZuOb0IHu0Dn8E5eUGBKqb0L8Mv9QGI5EpJdniT%2BzMsKjbLxkmlcbtP2v3UIUucLkHP%2FMaC4zyf4NDs6XrNR2uf%2BYCi7EL8fSJRmrJ6e7JvsNtnc%2FH7tLkO07QzwyGgXoE7P2PK0vure3YHadHwDCnLwXRKCgpI5PdSucaKlw%3D%3D",
+    "id": "d7e5b318-3992-4054-ad74-137a4110e51d",
+    "company": ["LinkedIn"],
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "type": "Javascript",
+    "difficulty": "Easy",
+    "createdAt": {
+      "seconds": 1726688731,
+      "nanoseconds": 581000000
+    },
+    "createdByName": "Sagnik Ghosh",
+    "modelanswers": "What is the difference between parseInt() and parseFloat()?",
+    "explaination": "What is the difference between parseInt() and parseFloat()?"
+  },
+  {
+    "company": ["MasterCard"],
+    "question": "How do you convert a string to a number in JavaScript?",
+    "createdByName": "Sagnik Ghosh",
+    "totalScore": 3.77,
+    "createdAt": {
+      "seconds": 1726688728,
+      "nanoseconds": 299000000
+    },
+    "type": "Javascript",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/bd8c0afd-99e1-41d6-9b9a-723b4d041a6e.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=wI8tu1oy4DA93c5wlcCz3noElqhFOft7S53VQJ2PaeaQJs9WIXcWELZSyWAYz4EWnZR77lsDJ%2B3ITZm74rt2pBRuisZ0ya7R9VGgrRzyGZ4vfYyokfusTHNXV2BTlsQ5mGn28Gw0DP3qRgCeu4oweINwabqCTwb3kA3rm0ERSouoa6NgkGk%2FGcY8MNsoVbbit5Ty%2FT823DbwrDsIwuVh4ZHk4BQuXbMFQdJNsiFnBdNH8RbHQ4CgVk6Ju19m3UjUjVqb2ddmRcrNpUHe%2FT1WyssL2JnCWVsIywl3Krs6%2FrRtOLSHIywpaYqe6jQoWN1FbquaN%2F50G%2FX43c2g%2B%2F1WUQ%3D%3D",
+    "explaination": "How do you convert a string to a number in JavaScript?",
+    "difficulty": "Easy",
+    "modelanswers": "How do you convert a string to a number in JavaScript?",
+    "status": true,
+    "id": "bd8c0afd-99e1-41d6-9b9a-723b4d041a6e",
+    "analysis": {
+      "attempted": 1,
+      "totalScore": 3.77,
+      "avgScore": 3.77,
+      "bestScore": 3.77,
+      "worstScore": 3.77
+    }
+  },
+  {
+    "modelanswers": "What is the purpose of the typeof operator?",
+    "id": "f05effd6-741a-4eaf-9552-0de465c9ee16",
+    "company": ["WorqHat"],
+    "createdAt": {
+      "seconds": 1726688725,
+      "nanoseconds": 66000000
+    },
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "explaination": "What is the purpose of the typeof operator?",
+    "status": true,
+    "question": "What is the purpose of the typeof operator?",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/f05effd6-741a-4eaf-9552-0de465c9ee16.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=nytc9%2BYRvidttel7Npqxrkgm2KXThAICGJ5AOURtzfE6ptzS2PZwa8Zxr8CUb48L4cu93w6JN1a6JkHGhMioMniGP8kJtGjj9MVTePdRdxFP2RqM%2FpH8Mr7tilsWqFZxA4bCis%2FoCRwLJ0nCapFFgcpUUnPOJaBbBIeBysCjBPlEbsx%2FIzrvw%2FtTugewzucTqXRe81%2FrtJT%2B5RgF63%2BqSg7MfrNgwF7v%2FMLB254MfqpbPQWpj0cKfIol1bNHVfOOVLB46cs6PTzNG0kUjLYjig2EJ%2FWuSbR2ydZ9629ZMb%2BqmSmtrldLi10ssMxECR4IIRXL125fVxZtj6tbuHU7OA%3D%3D",
+    "createdByName": "Sagnik Ghosh",
+    "type": "Javascript",
+    "difficulty": "Easy"
+  },
+  {
+    "difficulty": "Easy",
+    "analysis": {
+      "attempted": 2,
+      "worstScore": 4.1659999999999995,
+      "bestScore": 4.787999999999999,
+      "avgScore": 4.476999999999999,
+      "totalScore": 8.953999999999999
+    },
+    "company": ["Walmart"],
+    "modelanswers": "How do you add an event listener to an element?",
+    "explaination": "How do you add an event listener to an element?",
+    "type": "Javascript",
+    "createdByName": "Sagnik Ghosh",
+    "createdAt": {
+      "seconds": 1726688721,
+      "nanoseconds": 827000000
+    },
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/14dea7b5-43c4-4ea5-b506-0f225f60a9b5.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=pCFZ4fzgfEwH8xwzy66ZAwvjTTpa3UFrowUHplJsHF3cCtvfqO34v9Gr04kVmGJI1pir1hDLoXefziLEJdSXJP6ZeLDTmVir3eG0UVCSavG%2BWdx%2BbS1BSJEjohVjnQcn%2FICMiut8JBI%2BXIc6GyOonOG4lwZe1xIGELZa%2BgUyLXifai2M418sauPywyKZye6r%2F1Z00I22r5I%2Fyei%2Fcrd0zCL3Wf42Cb1WfZbx36Sp5lFABPsgTTMFnsLmI8q9QJblcCErm29xjE%2BnzGto3Lut85MapkJ7Sw31QhaK67z7B6%2FSC1RxaiBknRnPijG8a8WP2HsF42VJLxyQL3KeGf3tZw%3D%3D",
+    "question": "How do you add an event listener to an element?",
+    "id": "14dea7b5-43c4-4ea5-b506-0f225f60a9b5",
+    "status": true,
+    "totalScore": 8.953999999999999,
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1"
+  },
+  {
+    "createdAt": {
+      "seconds": 1726688718,
+      "nanoseconds": 841000000
+    },
+    "status": true,
+    "type": "Javascript",
+    "analysis": {
+      "bestScore": 6.728,
+      "worstScore": 5.292,
+      "avgScore": 5.776,
+      "attempted": 3,
+      "totalScore": 17.328
+    },
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "question": "What is the difference between a primitive and a reference type?",
+    "createdByName": "Sagnik Ghosh",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/ca9b995c-feb9-43a5-8d52-c73c99d6ce70.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=TfP8cr3HMh4FLUJeiyBxKCCEfGBznpUSVDq7wGaHLt%2FwoJAepHcrTyWrN3JSDWAHYI65MXRLblblts2GNk9vUx3fE22ZSN2pjgSWP5J2O09zI6lqAJBRFj9KmZb2lAMv44PpIDGlc4sIj4aCl9wKuub2fdInJR2tMDRjQ5D6NYtrj%2FzF1exuQpyrW9t9va36JPqIrvZXZ4HdzOFdoiVnlL9rezSCv50cn38x83wO%2BaZQNUPPXNZ4u2InbbJgno2l6x7XhWOJMCOF7hWVEsHzbPHkaLx2GJ775EYgCxb2uzDVBx3umPypYZLWUK%2F50qR88pJOf5y%2BtrGSFPW2eWVpCw%3D%3D",
+    "id": "ca9b995c-feb9-43a5-8d52-c73c99d6ce70",
+    "explaination": "What is the difference between a primitive and a reference type?",
+    "totalScore": 17.328,
+    "modelanswers": "What is the difference between a primitive and a reference type?",
+    "company": ["Palo Alto Networks"],
+    "difficulty": "Easy"
+  },
+  {
+    "difficulty": "Easy",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "createdByName": "Sagnik Ghosh",
+    "company": ["SAP"],
+    "modelanswers": "How do you create an object in JavaScript?",
+    "explaination": "How do you create an object in JavaScript?",
+    "id": "58953f5e-bb65-4c13-9030-a41cd6a01b83",
+    "status": true,
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/58953f5e-bb65-4c13-9030-a41cd6a01b83.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=VdMESMyGMUz9qg0lEN0MKhNaTjEWjoTB%2BxM1%2FwuJ%2FltVDUWNYHGY8iEHOTObuJfr8HdPz2B8VL9ewPsyCmFa7XrZSWMazRBvJVfR%2FMETQnfFpwFl%2BawmzZ73v05Jt2zsgXbRazM5j1pc3jyGVF9iDklgVAmtvdoOyjEmo8XccGtx8%2Bs0N3Z4hqP9H%2BEkuse7rgWcUYDKEcktXZ89wRkbFls9J0hg0V91%2FAbTTZ0vpQpHqDmOzCPwFCp3ZKf0sJcZhX0vozXi6bDbRVWyt8PoTQreTrjTJ6Zk9H07VYc%2FLvQFonqyejdgjYw67GEMqCJJxIVq5pLYhyOA0EuCjoGvSg%3D%3D",
+    "question": "How do you create an object in JavaScript?",
+    "type": "Javascript",
+    "createdAt": {
+      "seconds": 1726688714,
+      "nanoseconds": 380000000
+    }
+  },
+  {
+    "type": "Javascript",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/f5db4d2e-282a-4c29-9573-961b4146e6a1.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=NXOVNr2bNGzt6geh1UawpljiKbIrE9nmZ0Sy96TZeL2q57EU%2BkdDzV8EMO55tlg%2FUsVt5PjVYexXaIU9r0hBUEVI1PorGRbZDU%2F4n1v7J41QjNlheGCOmyLkRCbsiJ8Q2UmtBFb2ULh93vT0fW0GQhPAo1AulMO0ir1SqmR5%2FlsPXtyvhN92%2BC47OBnO5ULvJT3p3CLoGYF%2BqrzpTxO2aV3tWpY5cqXKCnqzCCnJJ%2B%2FVxBsA0IuGcWVIY3z6gESvKz2sgqEtmNCpL1G8ni4Lrm5CcvNZBjw3IBiFp0MnDOKRxd4Y0w9bax%2BFoumph931mTtMNdGU2BO8LKGopvQqZg%3D%3D",
+    "id": "f5db4d2e-282a-4c29-9573-961b4146e6a1",
+    "explaination": "What are the different ways to loop through an array in JavaScript?",
+    "difficulty": "Easy",
+    "status": true,
+    "modelanswers": "What are the different ways to loop through an array in JavaScript?",
+    "question": "What are the different ways to loop through an array in JavaScript?",
+    "createdAt": {
+      "seconds": 1726688711,
+      "nanoseconds": 417000000
+    },
+    "createdByName": "Sagnik Ghosh",
+    "company": ["Instacart"]
+  },
+  {
+    "difficulty": "Easy",
+    "modelanswers": "How do you access an element from the DOM using JavaScript?",
+    "explaination": "How do you access an element from the DOM using JavaScript?",
+    "status": true,
+    "createdAt": {
+      "seconds": 1726688708,
+      "nanoseconds": 77000000
+    },
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "question": "How do you access an element from the DOM using JavaScript?",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/24a3d757-0aff-4d78-9404-4c9bae70f1ba.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=r89wdNthY73Xb%2B3hKVqw2Mv3XJta21PGr%2FpdYDYUtyjdW7tWeOVWFWVZStXGTFS2xyz2EWiYMOGd7OMrWGRgABEKQs3pRh%2FDeSAwtTidMsm%2B2f9VXmbNDBKvV3Gs5hBwJvldYIPXRwMARP5whkoEB%2F35NVyQf4pXl5LbpLZqS3VscXdQG%2BcqL5fW27LY7D5tOMbbhFypwWRizVTsqCyBTTdyJo%2B7o5IMzEcl9gT3eMMQcXkaHAt2j3m2nWTPeBOvVL344ExEs9GrndM6bEzqQaU%2BEL5PGe0yvcjqZ6VbsPNgYfIjgmJRMM2Yj3NMRss2iefVDz306OqtX9XYV5G9Ew%3D%3D",
+    "id": "24a3d757-0aff-4d78-9404-4c9bae70f1ba",
+    "company": ["Atlassian"],
+    "createdByName": "Sagnik Ghosh",
+    "type": "Javascript"
+  },
+  {
+    "difficulty": "Easy",
+    "createdByName": "Sagnik Ghosh",
+    "id": "ecbb039f-b043-409f-9bc1-8827b9cf44af",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "explaination": "Explain the difference between == and ===.",
+    "modelanswers": "Explain the difference between == and ===.",
+    "company": ["Hubspot"],
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/ecbb039f-b043-409f-9bc1-8827b9cf44af.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=NBINjjNQMt5MfG3arKKsl%2FI8i%2FmzbZlfh5%2B8eHhMaoQadV3C3Ivk8hiZgwVtuFsiiRI%2BGNMSin%2BD%2FTWT%2Bjwawfxv6SNLfrQ070UGsAqqNmfbVWZ6w7KnbFUbQMgVWsP2Mxp12W2NcWXF%2FDb%2FzAXBlp58TeOIhglOIOhFujC1KgDk2DufdbucD%2Fow15GsN1T0hMb5OFYlP0GxlBffW2k7PAjnQWFgdET75jrQDQ13mNvtXXP6993wYQ0mZE8w6uLOAF08g7BfdFjc6sBQJaZPpiKqt0en5motyvjp%2FaofF6om2Wpdf4aN9pNWOQN768mwhouBeppX4wWeO1Q4s4zCCw%3D%3D",
+    "question": "Explain the difference between == and ===.",
+    "type": "Javascript",
+    "status": true,
+    "createdAt": {
+      "seconds": 1726688704,
+      "nanoseconds": 761000000
+    }
+  },
+  {
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "status": true,
+    "explaination": "What is the purpose of the this keyword?",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/7c1b38d5-12de-4603-bf36-aa04d5ace013.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=jp2%2FpnmAhhHSiK9XM3tdWaDZl9eCqlmd2lpxJPpxB%2FV9OUJhMX8baLjcAUxZIY7PeXVqM0UgN83IXmcfs5xiVRDGAGmV6BsFxM1hKdHbRsuIq3h3%2BGVT5egetIEhbiKZyrAX0CMHt3o6fAyE7t1tJolKPnM3UkuQEa4UuB9JuAfLokmmdF5QpOC5CNcENnz63vc2B04zslH3xhAHWzQnjr7ndlJqH4OaJBQxGO7%2B2%2BH76gGarmoSM%2B5r52snnEIaNLEhGdaJ9J9u53La2nD8BmJxjJUbryC9FwOWO0No5DlYkuqbVlGmQlCygfTA6xvUke5E8rCXBjdZoT7Y5fSiig%3D%3D",
+    "id": "7c1b38d5-12de-4603-bf36-aa04d5ace013",
+    "createdAt": {
+      "seconds": 1726688701,
+      "nanoseconds": 51000000
+    },
+    "createdByName": "Sagnik Ghosh",
+    "type": "Javascript",
+    "modelanswers": "What is the purpose of the this keyword?",
+    "difficulty": "Easy",
+    "company": ["Lyft"],
+    "question": "What is the purpose of the this keyword?"
+  },
+  {
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/cafb6414-158b-48b8-9c26-0c0f599e79d4.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=r2zKHCuKalsI4eQcfItQF9B%2FBTx2z6JpbYBnXp9aD5WVTgSCUWvo1d7GpnC9aaBk3ctVcvy6pgQ48UP0IxffMM7a8IorvkZZVKSafwQUQhD50Xj7v1zheo5xAk5pHW8CVXr6v%2B5VqudHm2JEmDBN6ui0%2FB%2B5aHKNlGOEUc6M%2BKOau7z5J6jqAzUByEuAR1iqX6n0Vkv0mRyeXq35xnTvi%2BAyOm4EsIc8vLWgIj0cNajlpQcu%2FSC0klGlzH0Y1ei98BcDEC%2B%2F3vKlfCPx6v2HCxDSnSuf5OlhRxrkwAP1vMhg7UZrwg%2BsWKpH9fZlOMPaTzBZ5X8YavbpfIHK%2Fv74EA%3D%3D",
+    "company": ["DoorDash"],
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "createdByName": "Sagnik Ghosh",
+    "status": true,
+    "question": "How do you create a function in JavaScript?",
+    "totalScore": 6.07,
+    "modelanswers": "How do you create a function in JavaScript?",
+    "analysis": {
+      "worstScore": 6.07,
+      "totalScore": 6.07,
+      "bestScore": 6.07,
+      "avgScore": 6.07,
+      "attempted": 1
+    },
+    "createdAt": {
+      "seconds": 1726688698,
+      "nanoseconds": 50000000
+    },
+    "explaination": "How do you create a function in JavaScript?",
+    "id": "cafb6414-158b-48b8-9c26-0c0f599e79d4",
+    "difficulty": "Easy",
+    "type": "Javascript"
+  },
+  {
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/9100c0b4-a46f-42a6-ad85-9c192138e5c7.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=vPm6NoxdKWxJ4P6vSyjUS1mICJ9Jty%2FrEzMNtGdz7IuKg2DAcC56LLtlHDC6rc4yIM7V3z%2F814tTMXY3V3CwoUGXEo5r14uVusxsHMLf2UsaJtnET7XZcQC9z8AJ8pz5BJEodgv%2B1MeMR%2FdTUOVb7w3myg9rycja04M%2Bn8DzQ15JULchNhhGB5%2BWEJ0n%2FvriDkG%2Bz%2BCWA5ErvqOr6ixuAS1sAFVXyYt4XkyzoDEkhgDfRKvlKIXeCuyPl6Zf3qJiDqkJwugAmkzc7rjCaoqFsLdazT0WfSLg61R0O9LFp9ETaJ5B0renx94tiK38NkenBTcAOAGl%2BW7iWX5IWD9xKw%3D%3D",
+    "modelanswers": "What are the different data types in JavaScript?",
+    "createdAt": {
+      "seconds": 1726688695,
+      "nanoseconds": 252000000
+    },
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "company": ["Amazon"],
+    "createdByName": "Sagnik Ghosh",
+    "difficulty": "Easy",
+    "explaination": "What are the different data types in JavaScript?",
+    "status": true,
+    "question": "What are the different data types in JavaScript?",
+    "analysis": {
+      "totalScore": 5.3,
+      "avgScore": 5.3,
+      "worstScore": 5.3,
+      "bestScore": 5.3,
+      "attempted": 1
+    },
+    "type": "Javascript",
+    "totalScore": 5.3,
+    "id": "9100c0b4-a46f-42a6-ad85-9c192138e5c7"
+  },
+  {
+    "explaination": "Explain the concept of hoisting in JavaScript.",
+    "status": true,
+    "createdByName": "Sagnik Ghosh",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/354e496c-e741-4700-94ae-42c0467a578f.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=au3Rs1%2FBtMGpz4NMb7xPIWPqIkBEqiZfL0tNUDjH1Qsvv42yehALF5GiVyxOCCogNVFWtQckXRyLF9Nx4zCXB6cS345JFvh5KaZE9LVLJTuayHb5HnQu%2BBxD4o1hfKoheK%2BiYjgFApo7mtDDXSX1YHajTc7gNSVCuUEJo1bZynEJr0t8TiQ35kkYHqX58o4FbapVZhCe2k3aGbKEdD7yjdwSDb4j3X1Fxh4evG%2Fi17B5FHlfQTf%2BPUEq3Xn895W4%2Fd%2FuGPUC5elOHAsa4AMKraALCNEewT4tulucXPGc5OYqRZnT5DWhuGNMmTDza%2FiCAYyRFQfFIeFT%2FnhXK85xJw%3D%3D",
+    "id": "354e496c-e741-4700-94ae-42c0467a578f",
+    "difficulty": "Easy",
+    "createdAt": {
+      "seconds": 1726688692,
+      "nanoseconds": 170000000
+    },
+    "question": "Explain the concept of hoisting in JavaScript.",
+    "analysis": {
+      "worstScore": 7.0760000000000005,
+      "avgScore": 7.0760000000000005,
+      "totalScore": 7.0760000000000005,
+      "attempted": 1,
+      "bestScore": 7.0760000000000005
+    },
+    "totalScore": 7.0760000000000005,
+    "type": "Javascript",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "company": ["Google"],
+    "modelanswers": "Explain the concept of hoisting in JavaScript."
+  },
+  {
+    "question": "What is a closure in JavaScript?",
+    "type": "Javascript",
+    "totalScore": 5.2,
+    "createdAt": {
+      "seconds": 1726688689,
+      "nanoseconds": 112000000
+    },
+    "id": "ef20df3c-780a-4c1f-91f6-a2b3665818da",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/ef20df3c-780a-4c1f-91f6-a2b3665818da.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=mIOGEnfd9pv7VgPbPKKV7xlfO9I96Vf40Q2123yF%2F9Vn5SI73FV9f%2BEsjbdB2Nzej1BPsmhPyo6MMsjyRWab9Fe5B0xtT%2BaQT6kX1L8JOpEeA0zXU%2FnkJkyR8puu6PXiTlgUGirzOhieGNi67X3mP1RiQROonuqg%2BSZik9aHWlUFTAX8QyIaouZQYndzbpFJRIvar8vHOCBCQduV5TYPn%2FOknYvO9AW14Lwg%2BhqB2fQ3g4lQve3xUej17DiFLtm6ZjjbPOfsb%2FEF3bqJ11x80ya9Lw3jm%2FFosZlqYcI03IIJLwp9cdkFlPCEnK0N0Fn%2BOm%2F5VH42X2YRM3JDyOlllQ%3D%3D",
+    "status": true,
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "explaination": "What is a closure in JavaScript?",
+    "analysis": {
+      "totalScore": 5.2,
+      "attempted": 2,
+      "bestScore": 2.7,
+      "worstScore": 2.5,
+      "avgScore": 2.6
+    },
+    "modelanswers": "What is a closure in JavaScript?",
+    "createdByName": "Sagnik Ghosh",
+    "company": ["TikTok"],
+    "difficulty": "Easy"
+  },
+  {
+    "explaination": "What is the difference between null and undefined?",
+    "status": true,
+    "analysis": {
+      "totalScore": 10.408000000000001,
+      "attempted": 2,
+      "bestScore": 5.758,
+      "worstScore": 4.65,
+      "avgScore": 5.204000000000001
+    },
+    "type": "Javascript",
+    "difficulty": "Easy",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/5846c73e-08a6-4611-b6c2-931b9ed8a454.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=TiwDVvGlSYct%2BbuZMF5PJhIZXmSanGmOWExt2S6Essq8cosfkocwza8waTbc3GXArsj9D1uXRBKkysilgpH6%2BGC7P3DHORJmCHfF93y%2BHdb4XrLgq8qSMY97WWtdiay42Lhv4HOZG7MQ0W4130c3SeFUY7w9CCOmLGYHnf%2FquJSgcJQWIic%2FaDWbtZlSyRSir3OHOJbPPn3iN8vh4%2FQISndN0h%2B5t8N17rq%2F4P6ftH4K4S9vxNNeDyWf0YZeyRzfZ4uiyJ4NyJ3bigxFdywVczUI6mxafrZbCQKDWFDuHCVbe8Rb5Rtnv%2FvV98ROjOE%2BmO5ItJw8yHwIYsC19WAhKA%3D%3D",
+    "id": "5846c73e-08a6-4611-b6c2-931b9ed8a454",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "createdByName": "Sagnik Ghosh",
+    "company": ["Meta (Facebook)"],
+    "createdAt": {
+      "seconds": 1726688686,
+      "nanoseconds": 222000000
+    },
+    "question": "What is the difference between null and undefined?",
+    "totalScore": 10.408000000000001,
+    "modelanswers": "What is the difference between null and undefined?"
+  },
+  {
+    "company": ["LinkedIn"],
+    "question": "Explain the difference between var, let, and const.",
+    "difficulty": "Easy",
+    "createdBy": "Isf0WHzHBrYXCQgxLM2hLIejtQg1",
+    "id": "befc917f-ba90-4402-b586-aeae5d8249fa",
+    "createdByName": "Sagnik Ghosh",
+    "audioUrl": "https://storage.googleapis.com/mitaoe-interview-video/question_audio/befc917f-ba90-4402-b586-aeae5d8249fa.mp3?GoogleAccessId=firebase-adminsdk-26uj6%40interview-project-mitaoe.iam.gserviceaccount.com&Expires=16730323200&Signature=Om36NEdMPYkKwgp3WEPPf6WsJo0Id7cr25khhrk58xw58hLsJJJk2N18cmyUyp7hAUaXtHlMvowBTvt8RSGB1O5oAmuHcWosbWxA8%2BI%2ByUkOyu9bT3Muh9PRqcJWW281e5K50cp2uu%2BaAWo%2BR6EysdTWPtTKCSUKI%2FYA4tk2yZCatii6comEzUNlDW8ez08ij%2BuMlXta8FgFJYIvmsn7JwZ5PCl7juKX6RAXf7LEKRJfoekDRXwbBD%2FxDpGKO6aE7NWxqZDG%2B%2FAXmuHOB%2F65NvHAVD3D1DCI6maYM7GCIBpRTz2kMdaDfh0FUPpjIjl8QzzfyEfJ4W9buECAC8tzSg%3D%3D",
+    "totalScore": 7.132,
+    "type": "Javascript",
+    "modelanswers": "Explain the difference between var, let, and const.",
+    "explaination": "Explain the difference between var, let, and const.",
+    "createdAt": {
+      "seconds": 1726688683,
+      "nanoseconds": 87000000
+    },
+    "analysis": {
+      "attempted": 1,
+      "worstScore": 7.132,
+      "totalScore": 7.132,
+      "avgScore": 7.132,
+      "bestScore": 7.132
+    },
+    "status": true
+  }
+]
